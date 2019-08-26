@@ -1,7 +1,7 @@
 # Inspirations
 List of inspirations that i caught in daily life
 
-###1. Point of view for analyzing data 
+### 1. Point of view for analyzing data 
 
  - Smoking room
 
