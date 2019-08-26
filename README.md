@@ -1,4 +1,4 @@
-# Inspirations
+### Inspirations
 list of inspirations that i caught in daily life
 
 1. Point of view for analyzing data 
@@ -13,14 +13,13 @@ Usally it gives me a break time, relieves my stess, organizes my thought and som
 So this cafe's smoking room is my favorite place. </br>
 </br>
 One day i had been this cafe with my friend and go smoking room together. </br>
-There is two big ashtray and 6 chairs. When i was smoking in there, sometimes i just caught many brands of cigarettes in ashtray and thought about people's preference cigarette brand. </br>
+There is two big ashtray and 6 chairs. When i was smoking in there, sometimes i just caught many brands of cigarettes in ashtray and thought about people's preferred cigarette brand. </br>
 It's a kinda occupational disease that analyzing data and figuring out meaningful result haha. </br>
 But this thought was not interesting to me becaus i thought anybody can think about it when they saw ashtray. </br>
 </br>
 My friend (who is not concerned with my major even with studying haha) told me something very fresh. </br>
 (before we get started, here is picture to help your understanding with smoking room's view)
 ![Smoking_room](smoking_room.png)</br>
-
 Freind : "Did you see? Everyone didn't threw their cigarette into the ashtray on the opposite side of the chairs!"</br>
 Me : "What? Oh i see. yeah it's true. There are no cigarettes at ashtray on the side which are not looking for chairs. but so what?"</br>
 Friend : "It means everybody smoked and threw away their cigarretes while sitting. and nobody didn't smoked while standing"</br>
