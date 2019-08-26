@@ -20,7 +20,8 @@ But this thought was not interesting to me becaus i thought anybody can think ab
 My friend (who is not concerned with my major even with studying haha) told me something very fresh. </br>
 (before we get started, here is picture to help your understanding with smoking room's view)
 ![Smoking_room](smoking_room.png)
-![Smoking_room2](smoking_room2.jpeg)
+![Smoking_room2](smoking_room2.jpeg)</br>
+
 Freind : "Did you see? Everyone didn't threw their cigarette into the ashtray on the opposite side of the chairs!"</br>
 Me : "What? Oh i see. yeah it's true. There are no cigarettes at ashtray on the side which are not looking for chairs. but so what?"</br>
 Friend : "It means everybody smoked and threw away their cigarretes while sitting. and nobody didn't smoked while standing"</br>
