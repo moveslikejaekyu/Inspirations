@@ -28,7 +28,7 @@ Friend : "Didn't you notice? I think it means many people smoked and threw away 
 Me : "Oh my goodness... it's a kinda fresh shocking man... I didn't notice until now though i have visited here over 100 times"</br>
 </br>
 Yeah it was quite fresh result with analyzing that place. </br>
-I just always thought about people's preference cigarette brand with counting several cigarattes and stucked with this thought.</br>
+I just always thought about people's preferred cigarette brand with counting several cigarattes and stuck with this thought.</br>
 My friend thought was so fresh and new to me.</br>
 With this episode, i realized point of diverse view for analzing and wathching something is so important. </br>
 One of data scientist's needed ability is wide perspective to see & analyze data and make good interpretation . </br>
