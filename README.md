@@ -6,7 +6,7 @@ List of inspirations that i caught in daily life
  - Smoking room
 
 I have one cafe that i usally go to study near my home. </br>
-This cafe is consisted with 2 floor - 1F is for cashier and 2F is for seats and smoking room. </br>
+This cafe is consisted with 2 floors - 1F is for cashier and 2F is for seats and smoking room. </br>
 Because i am a smoking person, i need to smoke regularly even more when i'm studying(Just for encouraging concentration haha). </br>
 For me, Smoking time gives many good affects. </br>
 Usally it gives me a break time, relieves my stess, organizes my thought and sometimes gives me an opportunity for deep thinking. 
@@ -28,7 +28,7 @@ Friend : "Didn't you notice? I think it means many people smoked and threw away 
 Me : "Oh my goodness... it's a kinda fresh shocking man... I didn't notice until now though i have visited here over 100 times"</br>
 </br>
 Yeah it was quite fresh result with analyzing that place. </br>
-I just always thought about people's preferred cigarette brand with counting several cigarattes and stuck with this thought.</br>
+I just always thought about people's preferred cigarette brand with counting several cigarattes and stuck in this thought.</br>
 My friend thought was so fresh and new to me.</br>
 With this episode, i realized point of diverse view for analzing and wathching something is so important. </br>
 One of data scientist's needed ability is wide perspective to see & analyze data and make good interpretation . </br>
